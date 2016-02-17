@@ -1,5 +1,2 @@
-# hello-world
-i'm learning github
-====================
-It's my first using GitHub.
-Why I needed him? I don't know...
+# test-1
+Test scripts for learning Python, PHP, bash etc.
